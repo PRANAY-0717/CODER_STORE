@@ -1,4 +1,4 @@
-# PRANAY - Software Products Website
+# PRANAY - CODERS STORE
 
 Welcome to the PRANAY project! This website prototype is designed to showcase upcoming software products, build anticipation, and provide easy access to users when the products are launched. The goal is to deliver high-quality, reliable, and efficient products through a user-friendly and professional interface.
 
@@ -12,8 +12,6 @@ Welcome to the PRANAY project! This website prototype is designed to showcase up
 ## Technologies Used
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling, responsive layout, and modern design elements (gradient backgrounds, semi-transparent containers, and hover effects).
-- **JavaScript**: (If applicable for future functionality like form validation, countdown timer, etc.)
 
-## Installation
-To run this project locally, follow these steps:
+
 
